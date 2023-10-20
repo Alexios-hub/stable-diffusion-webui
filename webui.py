@@ -161,7 +161,5 @@ if __name__ == "__main__":
     else:
         webui()
 
-def test_webui():
-    t = 1
-    t = 2
-    print(t)
+def is_mytest():
+    return 1
