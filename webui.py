@@ -160,3 +160,8 @@ if __name__ == "__main__":
         api_only()
     else:
         webui()
+
+def test_webui():
+    t = 1
+    t = 2
+    print(t)
